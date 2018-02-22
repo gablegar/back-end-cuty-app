@@ -1,0 +1,7 @@
+*/*/.DS_Store
+*/.DS_Store
+/.DS_Store
+.idea/
+target/
+back-end-cuty-app.iml
+pom.xml

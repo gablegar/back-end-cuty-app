@@ -1,0 +1,4 @@
+si JAF no available en mvn repo, esto es causado porque oracle no deja que los jar esten en mvn central, en ese caso descargar archivo y ejecutar
+mvn install:install-file -DgroupId=javax.activation -DartifactId=activation -Dversion=1.0.2 -Dpackaging=jar -Dfile=activation-1.0.2.jar
+
+si se presenta error de ssl desactivar antivirus, esto pasa con el shield de mail de avast
